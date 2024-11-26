@@ -46,6 +46,8 @@ namespace maxValue
                 }
             }
             Console.WriteLine("The largest property value in the list is " + max + " ,at position " + index);
+            Console.ReadLine();
+
         }
     }
 }
